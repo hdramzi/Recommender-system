@@ -9,3 +9,6 @@ Also we have deploy it on EC2 AWS instance so you can use it directly with this 
 
 
 We have added a test api notebook to test directly from this IP address 
+
+
+THANK YOU
